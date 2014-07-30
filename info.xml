@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<extension key="com.aghstrategies.campaignviewreports" type="module">
+  <file>campaignviewreports</file>
+  <name>View Campaign Reports</name>
+  <description>Adds links to custom reports for campaigns</description>
+  <license>agpl</license>
+  <maintainer>
+    <author>Maggie Epps</author>
+    <email>maggie@aghstrategies.com</email>
+  </maintainer>
+  <releaseDate>2014-07-29</releaseDate>
+  <version>1.0</version>
+  <develStage>alpha</develStage>
+  <compatibility>
+    <ver>4.4</ver>
+    <ver>4.5</ver>
+  </compatibility>
+  <civix>
+    <namespace>CRM/Campaignviewreports</namespace>
+  </civix>
+</extension>

@@ -1,0 +1,6 @@
+RM.api3('ReportTemplate', 'create', {
+  "sequential": 1, "name": "CRM_Campaignviewreports_Form_Report_CampaignActivities", "option_group_id": 40, "id": 772, "label": "Campaign Activities Report", "component_id": 9
+}).done(function(result) {
+  // do something
+  console.log(result);
+});
